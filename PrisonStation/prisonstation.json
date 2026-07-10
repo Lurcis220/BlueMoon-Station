@@ -1,0 +1,25 @@
+{
+	"map_name": "Prison Station",
+	"map_path": "map_files/prisonstation",
+	"map_file": "prisonstation.dmm",
+	"traits": [
+		{
+			"Linkage": "Cross",
+			"Station": true
+		}
+	],
+	"space_ruin_levels": 7,
+	"space_empty_levels": 1,
+	"minetype": "lavaland",
+	"maptype": 1,
+	"allow_custom_shuttles": true,
+	"shuttles": {
+		"cargo": "cargo_box",
+		"ferry": "ferry_fancy",
+		"whiteship": "whiteship_box",
+		"lambda": "lambda_code",
+		"emergency": "emergency_box"
+	},
+	"year_offset": 540,
+	"orientation": "SOUTH"
+}
