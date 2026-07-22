@@ -70031,17 +70031,6 @@
 	},
 /turf/open/floor/plasteel,
 /area/medical/storage)
-"hnv" = (
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer3{
-	dir = 4
-	},
-/obj/structure/table/wood,
-/obj/machinery/fax{
-	fax_name = "Head of Security office";
-	name = "Head of Security Fax Machine"
-	},
-/turf/open/floor/wood,
-/area/command/heads_quarters/hos)
 "hny" = (
 /obj/structure/table,
 /obj/machinery/light{
@@ -85111,6 +85100,17 @@
 	},
 /turf/open/floor/plasteel/dark,
 /area/science/mixing)
+"ltj" = (
+/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer3{
+	dir = 4
+	},
+/obj/structure/table/wood,
+/obj/machinery/fax{
+	fax_name = "Head of Security office";
+	name = "Head of Security Fax Machine"
+	},
+/turf/open/floor/wood,
+/area/command/heads_quarters/hos)
 "ltK" = (
 /obj/structure/cable/white{
 	icon_state = "4-8"
@@ -103203,6 +103203,18 @@
 	},
 /turf/open/floor/plasteel,
 /area/medical/medbay/central)
+"qsb" = (
+/obj/structure/cable/white{
+	icon_state = "4-8"
+	},
+/obj/structure/disposalpipe/segment,
+/obj/structure/table/wood,
+/obj/machinery/fax{
+	fax_name = "Head of Personal office";
+	name = "Head of Personal fax"
+	},
+/turf/open/floor/plasteel/grimy,
+/area/command/heads_quarters/hop)
 "qsc" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/closet/secure_closet/atmospherics,
@@ -167218,7 +167230,7 @@ xmR
 qTU
 xmR
 wGq
-xmR
+qsb
 kxP
 pnQ
 gEc
@@ -189060,7 +189072,7 @@ dbJ
 nDr
 dSu
 mhP
-hnv
+ltj
 nBQ
 byj
 gCu
