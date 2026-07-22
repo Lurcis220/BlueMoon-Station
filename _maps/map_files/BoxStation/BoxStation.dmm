@@ -36496,6 +36496,11 @@
 /obj/structure/cable{
 	icon_state = "0-8"
 	},
+/obj/structure/table/wood,
+/obj/machinery/fax{
+	fax_name = "NTR Fax";
+	name = "NTR Fax"
+	},
 /turf/open/floor/wood/wood_tiled,
 /area/command/heads_quarters/ntr)
 "dDF" = (
